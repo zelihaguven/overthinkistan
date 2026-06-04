@@ -10,7 +10,7 @@ Overthinkistan is a supportive, empathetic, and non-judgmental conversational AI
 **TR:**  
 Overthinkistan, kullanıcıların düşüncelerini, duygularını ve endişelerini empatiyle, yargılamadan ve anlayışla keşfetmelerine yardımcı olmak için tasarlanmış destekleyici bir sohbet yapay zekasıdır. Birden çok AI kişiliği, dinamik ruh hali ve tema uyarlamaları ile güvenli ve sıcak bir ortam sağlar.
 
-https://overthinkistan.vercel.app
+
 
 ---
 
